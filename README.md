@@ -10,10 +10,11 @@ This is a flexible Bash script for listing and sorting directories based on diff
 - **Show directories larger than a specified size.**
 - **Works in the current directory by default if no directory is provided.**
 
+## Usage
+
 ## Installation
 
 1. **Clone the repository** to your local machine:
    ```bash
-   mkdir directory-sorter
-   cd directory-sorter
    git clone https://github.com/dimasqiramadhani/directory-sorter.git
+   cd directory-sorter
