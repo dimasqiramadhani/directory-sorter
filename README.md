@@ -14,6 +14,13 @@ This is a flexible Bash script for listing and sorting directories based on diff
 ```bash
    ./sort-listing-dirs.sh [OPTION] [DIRECTORY]
 ```
+Where `[OPTIONS]` can be:
+1. `-h`, `--help`: Show the help message and exit.
+2. `-s`, `--sort-by SIZE|TIME|NAME`: Sort directories by SIZE, TIME, or NAME (default is NAME).
+3. `-r`, `--reverse`: Reverse the sort order.
+4. `-l`, `--long-listing`: Use a detailed listing format (ls -l style).
+5. `-t`, `--threshold SIZE`: Show directories larger than the specified SIZE (in bytes).
+6. `-f`, `--filter NAME`: Filter directories by NAME (pattern).
 
 ## Usage
 
