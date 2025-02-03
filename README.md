@@ -14,5 +14,6 @@ This is a flexible Bash script for listing and sorting directories based on diff
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/directory-sorter.git
+   mkdir directory-sorter
    cd directory-sorter
+   git clone https://github.com/dimasqiramadhani/directory-sorter.git
