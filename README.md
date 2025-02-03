@@ -47,6 +47,10 @@ Where `[OPTIONS]` can be:
    git clone https://github.com/dimasqiramadhani/directory-sorter.git
    cd directory-sorter
 
+2. **Make the script executable**:
+   ```bash
+   chmod +x sort-listing-dirs.sh
+
 ## Summary
 
 The Directory Sorter Script is a flexible and efficient tool that allows you to easily list and organize directories on your system. With support for sorting directories by size, modification time, or name, as well as filtering by name pattern or size threshold, this script provides a simple way to automate the management of directories. It also allows for reverse sorting and detailed directory listings, making it a versatile choice for anyone working with directories on Linux or Unix-based systems.
